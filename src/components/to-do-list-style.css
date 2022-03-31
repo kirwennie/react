@@ -1,0 +1,21 @@
+.done
+{
+    text-decoration: line-through;
+    font-size: 2rem;
+    color: purple;
+}
+
+.item-list-base{
+    font-size: 2rem
+}
+
+.important {
+    color: Lime;
+    font-weight: bold;
+    font-size: 2rem;
+    text-decoration: none;
+}
+
+.item-add-form {
+    margin: 10px 0 0 40px
+}
